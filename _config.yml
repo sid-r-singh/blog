@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: '/blog'
 disqus: 'demowebsite'
 email: 'site@email.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://gmail.us7.list-manage.com/subscribe/post?u=2d8414f562e76e129b0b8c50b&amp;id=54d8963ce8'
 
 include: ["_pages"]
 permalink: /:title/
