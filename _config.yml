@@ -19,8 +19,8 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Sid:
-      name:           Sid
+    sid:
+      name:           Sidharth R
       site:           https://sidrana.dev
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sidharth, the author of this blog. Hope you liked it!"
